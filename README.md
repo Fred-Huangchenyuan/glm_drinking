@@ -1,6 +1,6 @@
-# GLM Model for Drinking Behavior Analysis
+# A bottom-up septal inhibitory circuit mediates anticipatory control of drinking
 
-This repository contains analysis scripts for the research paper ***A bottom-up septal inhibitory circuit anticipates thirst satiation*** (Xu et al, 2025). The scripts implement a Generalized Linear Model (GLM) to analyze neuronal activity during drinking.
+This repository contains analysis scripts for the research paper ***A bottom-up septal inhibitory circuit anticipates thirst satiation*** (Xu et al, 2025).
 
 ## Scripts
 
