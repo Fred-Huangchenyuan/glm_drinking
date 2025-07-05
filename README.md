@@ -20,6 +20,7 @@ This repository contains analysis scripts for the research paper ***A bottom-up 
 - Analyzes event frequency from CSV data files
 - Converts timestamps from nanoseconds to seconds
 - Calculates and plots event frequency per second
+- This code is used to generate Figure 2d, 2r
 
 ### 5. K-means Clustering Analysis (`kmeans_clustering.py`)
 - Performs cluster analysis on neural activity data
@@ -30,6 +31,7 @@ This repository contains analysis scripts for the research paper ***A bottom-up 
   - Activity pattern heatmaps
   - Cluster activity curves with SEM
 - Exports all visualizations as SVG files
+- This code is used to generate Extended Data Figure 6j
 
 ### 6. Lick Event Visualization (`lick_visualize.py`)
 - Interactive tool for visualizing licking events
@@ -37,6 +39,7 @@ This repository contains analysis scripts for the research paper ***A bottom-up 
   - Summary statistics for each analyzed segment
   - Visual representation of licking patterns
   - Temporal distribution of licking events
+- This code is used to generate Figure 2d, 2g, Figure 3c, 3j, Figure 4i, Figure 5c, Figure 6e, Extended Data Figure 7b
 
 ## Usage
 Please refer to individual subfolders and scripts for detailed documentation and implementation details.
