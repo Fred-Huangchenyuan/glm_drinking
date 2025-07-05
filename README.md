@@ -21,7 +21,7 @@ This repository contains analysis scripts for the research paper ***A bottom-up 
 - Converts timestamps from nanoseconds to seconds
 - Calculates and plots event frequency per second
 
-### 5. K-means Clustering Analysis (`kmeans_clustering3.0.py`)
+### 5. K-means Clustering Analysis (`kmeans_clustering.py`)
 - Performs cluster analysis on neural activity data
 - Implements both automatic and manual K selection
 - Generates visualizations including:
